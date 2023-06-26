@@ -6,9 +6,18 @@ body{
 .books{
 
 	background-color:red;
+	margin-inline:20vw;
+	
 }
 
 .book img{
 	
 	height:150px;
+	margin-inline:110px;
+		
+}
+
+h4{
+
+	text-align:center;
 }
