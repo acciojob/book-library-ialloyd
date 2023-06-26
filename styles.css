@@ -22,18 +22,17 @@ body{
 	
 }
 
-h4{
+h1{
 	text-align:center;
 	padding-top:10px;
 }
 
-h5,p{
+h2,p{
 
-	margin-left:10px;
 	margin-bottom:2px;
 	
 }
-h5{
+h2{
 	margin-bottom:-10px;
 }
 
@@ -41,7 +40,7 @@ button{
 
 	width:100%;
 	background-color:lightgreen;
-	padding:2px;
+	padding:5px;
 	border-radius:5px;
 	border:none;
 	color:white;
